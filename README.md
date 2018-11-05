@@ -63,8 +63,8 @@
 - IP address range calculations can be improved.
 
 ### Teams Interested In  
-**1. Platform Team **  
-**2. Policy Team **
+**1. Platform Team**  
+**2. Policy Team**
 
 As you must have seen in my resume, to give a brief overview, I'm currently pursuing Master's in Software Engineering at SJSU with focus on Enterprise Software Technlogies and Cloud Computing. I am taking courses related to distributed systems and cloud technologies where I am getting hands-on experience on how to develop scalable multi tenant products and leverage NoSQL databases like redis, mongo db, riak. I have also gain experience in MERN(MongoDB ExpressJs ReactJs NodeJs)  stack recently and have developed two projects last semester. In these projects, I extensively leveraged the cloud technologies like AWS Load Balancer to provide high performance and availability. I used MongoDB sharded and replicated database cluster to improve query performance with high requests scenario. 
 Apart from this I also have around 2 years of professional experience of developing robust code for high-volume businesses. As the Platfrom and policy team mainly work on high availability, caching and persistence layers, API support, background jobs, reporting
